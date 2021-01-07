@@ -5,4 +5,4 @@
 You can find the Advent of Code 2020 [here](https://adventofcode.com/2020/). 
 
 In this repo I'll be posting my solutions written in Rust.
-I'm using this puzzles to learn Rust.
+I'm using these puzzles to learn Rust.
